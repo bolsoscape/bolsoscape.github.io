@@ -1,3 +1,3 @@
-# Bolso Scape (versão de teste)
+# bolsoscape.github.io
 
-Jogue em https://bolsoscape.github.io/
+Só redireciona para https://bolso-scape.web.app/ (o jogo saiu do GitHub Pages em 16/11/2026), mantendo os links de desafio.
